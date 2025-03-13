@@ -1,1 +1,2 @@
-# Floating-point-Compression
+# Compression
+Submission of task.
