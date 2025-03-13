@@ -1,12 +1,12 @@
 # Compression
 Submission of task.
-# **Lossy Compression of Floating-Point Data - Analysis Report**
+# **Analysis Report**
 
 ## **Overview**
-This project evaluates the impact of lossy compression on floating-point data using **Float16 and BitPack24** methods.  
+This project uses **Float16 and BitPack24** methods.  
 Compression quality is assessed by measuring **Mean Squared Error (MSE)** and comparing **statistical properties** (Mean, Standard Deviation, Skewness, Kurtosis) between the original and compressed datasets.
 
-We analyze:
+Analysis performed on:
 - **Uniform, Gaussian, and Exponential Distributions**  
 - **Two parameter sets: Previous vs. Adjusted**
 - **Side-by-side comparison for Float16 and BitPack24**
