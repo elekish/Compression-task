@@ -3,7 +3,7 @@ Submission of task.
 # **Analysis Report**
 
 ## **Overview**
-This project uses **Float16 and BitPack24** methods.  
+This project uses **Float16** method.  
 Compression quality is assessed by measuring **Mean Squared Error (MSE)** and comparing **statistical properties** (Mean, Standard Deviation, Skewness, Kurtosis) between the original and compressed datasets.
 
 Analysis performed on:
